@@ -1,0 +1,14 @@
+{
+  "rules": [
+    "Target Audience Rule: For 12th-grade Indian students with non-English medium backgrounds, always explain concepts using everyday analogies like an 'Open-Book vs Closed-Book Exam'.",
+    "Jargon Rule: Never introduce technical acronyms (LLM, RAG, Embeddings) without immediate plain-English translation (e.g. 'LLM is like a very well-read student; RAG is giving that student the open textbook').",
+    "Grounding Rule: Explicitly contrast RAG with fine-tuning. Clarify that RAG does NOT retrain the model weights; it simply retrieves fresh reference notes at query time.",
+    "Structure Rule: Always clearly isolate the 3 phases: 1) Retrieve (Search relevant text), 2) Augment (Attach found text to prompt), and 3) Generate (Produce grounded response).",
+    "Engagement Rule: Provide interactive check-your-understanding questions with reassuring explanations to build learner confidence in AI careers.",
+    "Learned from Rejection [Accurate & Grounded, Beginner-Friendly Language, No Unexplained Jargon]: Never claim RAG retrains weights; always clarify weights are frozen. Strip complex embedding jargon for 12th-grade learn...",
+    "Learned from Rejection [Accurate & Grounded, Beginner-Friendly Language, No Unexplained Jargon]: Keep language simple for What is an API?; strip confusing jargon....",
+    "Learned from Rejection [Accurate & Grounded, Beginner-Friendly Language, No Unexplained Jargon]: Keep language simple for Introduction to RAG (Retrieval-Augmented Generation); strip confusing jargon....",
+    "Learned from Rejection [Accurate & Grounded, Beginner-Friendly Language, No Unexplained Jargon]: Keep language simple for --help; strip confusing jargon....",
+    "Learned from Rejection [Accurate & Grounded, Beginner-Friendly Language, No Unexplained Jargon]: Keep language simple for what is soup; strip confusing jargon...."
+  ]
+}
